@@ -1,4 +1,4 @@
-public class Main{
+// public class Main{
   
   public static int getlargest(int list[]){
 
@@ -16,12 +16,12 @@ public class Main{
     
   }
   
-  public static void main(String args[]){
+//   public static void main(String args[]){
 
-    int list[] = {1,2,3,4,5,6,7};
-    int result = getlargest(list);
-    System.out.println("Largest Number :" + result);
+//     int list[] = {1,2,3,4,5,6,7};
+//     int result = getlargest(list);
+//     System.out.println("Largest Number :" + result);
 
     
-  }
-}
+//   }
+// }
