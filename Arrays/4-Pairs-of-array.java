@@ -1,6 +1,6 @@
-package JAVA;
+// package JAVA;
 
-public class Pairs_of_array {
+// public class Pairs_of_array {
 
   // arraypair fuction
 	public static void subarr(int numbers[]) {
@@ -12,11 +12,11 @@ public class Pairs_of_array {
 		}
 	}
 
-  // Main Function
-	public static void main(String[] args) {
-		int numbers[] = {1, 2, 3, 4, 5};
-		subarr(numbers);
+//   // Main Function
+// 	public static void main(String[] args) {
+// 		int numbers[] = {1, 2, 3, 4, 5};
+// 		subarr(numbers);
     
-	}
+// 	}
 
-}
+// }
