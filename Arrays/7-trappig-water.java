@@ -1,6 +1,6 @@
-package JAVA;
+// package JAVA;
 
-public class trappig_water {
+// public class trappig_water {
 	
 	public static void trappigwater(int numbers[]) {
 		
@@ -28,10 +28,10 @@ public class trappig_water {
 		
 	}
 	
-	public static void main(String[] args) {
+// 	public static void main(String[] args) {
 		
-		int data[] = {1,2,3,9,3,2,1};
-		trappigwater(data);
-	}
+// 		int data[] = {1,2,3,9,3,2,1};
+// 		trappigwater(data);
+// 	}
 
-}
+// }
