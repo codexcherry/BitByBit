@@ -13,23 +13,24 @@
         return result;
     }
 
-//     public static void main(String args[]){
-//         int number = 25;
-//         int dp[] = new int[number+1];
-//         for(int i=0;i<dp.length;i++){
-//             dp[i] = -1;
-//         }
-//        System.out.println(dpfibbo(dp,number));
-//     }
-// }
 
 
 
-// import java.util.*;
+ public static void tablufibbo(int n){
+        int prev2=0,prev=1;
+        for(int i=2;i<n+1;i++){
+            int curr = prev2+prev;
+            prev2 = prev;
+            prev = curr;
+        }
+        System.out.println(prev);
+    }
 
-// class fibbo{
 
-    public static int dpfibbo(ArrayList<Integer> dp,int n){
+
+
+
+public static int dpfibbo(ArrayList<Integer> dp,int n){
         if(n<=1){
             return n;
         }
@@ -43,9 +44,16 @@
         return result;
     }
 
+
+
 //     public static void main(String args[]){
 //         int number = 25;
-//         ArrayList<Integer> dp = new ArrayList<>(Collections.nCopies(number + 1, -1));
+//         int dp[] = new int[number+1];
+//         for(int i=0;i<dp.length;i++){
+//             dp[i] = -1;
+//         }
 //        System.out.println(dpfibbo(dp,number));
 //     }
 // }
+
+
