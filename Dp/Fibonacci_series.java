@@ -22,3 +22,30 @@
 //        System.out.println(dpfibbo(dp,number));
 //     }
 // }
+
+
+
+// import java.util.*;
+
+// class fibbo{
+
+    public static int dpfibbo(ArrayList<Integer> dp,int n){
+        if(n<=1){
+            return n;
+        }
+
+        if(dp.get(n) != -1 ){
+            return dp.get(n);
+        }
+
+        int result = dpfibbo(dp, n-1) + dpfibbo(dp, n-2);
+        dp.set(n, result);
+        return result;
+    }
+
+//     public static void main(String args[]){
+//         int number = 25;
+//         ArrayList<Integer> dp = new ArrayList<>(Collections.nCopies(number + 1, -1));
+//        System.out.println(dpfibbo(dp,number));
+//     }
+// }
