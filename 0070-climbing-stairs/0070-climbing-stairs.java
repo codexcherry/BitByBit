@@ -13,7 +13,7 @@ class Solution {
     }
 
     public static int tabluter(int n){
-         if (n == 1) return 1;
+        if (n == 1) return 1;
         if (n == 2) return 2;
         int prev2 = 1;
         int prev = 2; 
