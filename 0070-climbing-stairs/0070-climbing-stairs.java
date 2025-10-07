@@ -10,6 +10,7 @@ class Solution {
         int right = dpsolution(n - 2, dp);
 
         return dp[n] = left + right;
+        
     }
 
     public static int tabluter(int n){
