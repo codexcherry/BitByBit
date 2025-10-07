@@ -12,15 +12,17 @@ class Solution {
         // }
         // return max;
 
-        int sum=0;
-        int maxsum = nums[0];
-        for(int i=0;i<nums.length;i++){
-            sum+=nums[i];
-            maxsum = Math.max(maxsum,sum);
-            if(sum<0){
-                sum=0;
-            }
-        }
-        return maxsum;
+        int maxsum = nums[0]; // = -2
+int currsum = 0;
+
+for (int i = 0; i < nums.length; i++) {
+    currsum += nums[i];
+     maxsum = Math.max(maxsum, currsum);
+    if (currsum < 0) {
+        currsum = 0;
+    }
+       
+}
+return maxsum;
     }
 }
