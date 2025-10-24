@@ -12,7 +12,9 @@ class Solution {
         // }
         // return max;
 
-        int maxsum = nums[0]; // = -2
+        // "-----------------------------------------------------------------------"
+
+int maxsum = nums[0]; // = -2
 int currsum = 0;
 
 for (int i = 0; i < nums.length; i++) {
