@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/codexcherry/BitByBit/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/codexcherry/BitByBit/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/codexcherry/BitByBit/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/codexcherry/BitByBit/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/codexcherry/BitByBit/tree/master/0584-find-customer-referee) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codexcherry/BitByBit/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/codexcherry/BitByBit/tree/master/1837-daily-leads-and-partners) |
