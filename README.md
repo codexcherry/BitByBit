@@ -69,4 +69,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1948-rearrange-products-table](https://github.com/codexcherry/BitByBit/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/codexcherry/BitByBit/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/codexcherry/BitByBit/tree/master/2041-the-latest-login-in-2020) |
+| [2087-confirmation-rate](https://github.com/codexcherry/BitByBit/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
