@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/codexcherry/BitByBit/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/codexcherry/BitByBit/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/codexcherry/BitByBit/tree/master/0595-big-countries) |
+| [0596-classes-with-at-least-5-students](https://github.com/codexcherry/BitByBit/tree/master/0596-classes-with-at-least-5-students) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codexcherry/BitByBit/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/codexcherry/BitByBit/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/codexcherry/BitByBit/tree/master/1877-find-followers-count) |
