@@ -1,0 +1,15 @@
+class Solution {
+    public int removeDuplicates(int[] nums) {
+
+        int i = 0 ; //slow pointer
+        for(int j=1;j<nums.length;j++){ // fast pointer
+            if(nums[j] != nums[i]){
+                nums[i+1] = nums[j];
+                i++;
+            }
+        }
+
+        return i+1;
+        
+    }
+}
