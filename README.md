@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-salary](https://github.com/codexcherry/BitByBit/tree/master/0627-swap-salary) |
 | [1135-customers-who-bought-all-products](https://github.com/codexcherry/BitByBit/tree/master/1135-customers-who-bought-all-products) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/codexcherry/BitByBit/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1153-product-sales-analysis-i](https://github.com/codexcherry/BitByBit/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codexcherry/BitByBit/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/codexcherry/BitByBit/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/codexcherry/BitByBit/tree/master/1877-find-followers-count) |
