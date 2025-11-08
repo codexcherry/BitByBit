@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/codexcherry/BitByBit/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/codexcherry/BitByBit/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/codexcherry/BitByBit/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/codexcherry/BitByBit/tree/master/0595-big-countries) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codexcherry/BitByBit/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1837-daily-leads-and-partners](https://github.com/codexcherry/BitByBit/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/codexcherry/BitByBit/tree/master/1877-find-followers-count) |
