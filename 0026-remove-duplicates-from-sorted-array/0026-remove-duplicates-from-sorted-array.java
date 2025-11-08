@@ -4,8 +4,7 @@ class Solution {
         int i = 0 ; //slow pointer
         for(int j=1;j<nums.length;j++){ // fast pointer
             if(nums[j] != nums[i]){
-                nums[i+1] = nums[j];
-                i++;
+                nums[++i] = nums[j];
             }
         }
 
