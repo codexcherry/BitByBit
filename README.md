@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/codexcherry/BitByBit/tree/master/1161-project-employees-i) |
 | [1301-reformat-department-table](https://github.com/codexcherry/BitByBit/tree/master/1301-reformat-department-table) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/codexcherry/BitByBit/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1734-bank-account-summary-ii](https://github.com/codexcherry/BitByBit/tree/master/1734-bank-account-summary-ii) |
 | [1837-daily-leads-and-partners](https://github.com/codexcherry/BitByBit/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/codexcherry/BitByBit/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/codexcherry/BitByBit/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
